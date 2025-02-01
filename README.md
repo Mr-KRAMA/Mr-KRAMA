@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm khande Rameshwar</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
-<img aling="right" alt="coding" width="400px" src="https://ih1.redbubble.net/image.2869989921.7765/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg">
+<img aling="right" alt="coding" width="300px" src="https://ih1.redbubble.net/image.2869989921.7765/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-krama&label=Profile%20views&color=0e75b6&style=flat" alt="mr-krama" /> </p>
 
