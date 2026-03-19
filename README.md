@@ -2,7 +2,7 @@
 
 <!-- Animated Roles (rotation effect workaround) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Web+Developer;Full+Stack+Developer;Software+Developer;Backend+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=ff8800&center=true&vCenter=true&width=500&lines=Web+Developer;Full+Stack+Developer;Software+Developer;Backend+Developer" />
 </p>
 
 <!-- GIF (clickable portfolio) -->
